@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "oninit": "apps/oninit",
+    "oninit-e2e": "apps/oninit-e2e"
+  }
+}
